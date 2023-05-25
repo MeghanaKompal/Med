@@ -269,6 +269,10 @@ p {
   text-align: center;
 }
 
+.hello{
+  display: none;
+}
+
 .slideshow-container {
   max-width: 1500px;
   position: relative;

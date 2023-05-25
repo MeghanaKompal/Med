@@ -118,6 +118,17 @@
     display: initial;
   }
 
+  .hello{
+    min-height: 40vh;
+    background: linear-gradient(rgba(0,0,0, .4), rgba(0,0,0, .4)), url('surgery2.webp') no-repeat center center/cover;
+  }
+
+  #carouselExampleCaptions{
+    display: none;
+  }
+
+
+
   .header {
     padding: 20px 10%;
   }
@@ -392,6 +403,15 @@
   h1{
       font-size: 3.75rem;
   }
+
+.hello{
+  min-height: 40vh;
+  background: linear-gradient(rgba(0,0,0, .4), rgba(0,0,0, .4)), url('surgery2.webp') no-repeat center center/cover;
+}
+
+#carouselExampleCaptions{
+  display: none;
+}
   /* .about .col img {
     width: 30px;
     height: 30px;
